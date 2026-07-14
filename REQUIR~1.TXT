@@ -1,9 +1,0 @@
-PyTDC
-rdkit
-torch
-transformers
-scikit-learn
-scipy
-pandas
-numpy
-matplotlib
